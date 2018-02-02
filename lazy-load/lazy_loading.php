@@ -5,7 +5,7 @@
  */
 /*
 Plugin Name: ScriptHere's Lazy loading
-Plugin URI: https://github.com/blogscripthere/custom_registration_fields
+Plugin URI: https://github.com/blogscripthere/lazy-loading/
 Description: ScriptHere's simple Lazy loading Images in WordPress .
 Author: Narendra Padala
 Author URI: https://in.linkedin.com/in/narendrapadala
